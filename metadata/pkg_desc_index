@@ -5,5 +5,5 @@ dev-python/praw 2.1.10 3.3.0: A python package for simple access to reddit's API
 dev-python/supay 0.0.7: http://pypi.python.org/pypi/Supay/
 dev-python/update-checker 0.5 0.11: A python module that will check for package updates
 dev-util/godep 9999: native bindings for the FUSE kernel module
-net-p2p/syncthing 0.12.7: Open, trustworthy and decentralized syncing engine (some kind of analog of DropBox and BTSync)
+net-p2p/syncthing 0.12.7 0.12.17: Open, trustworthy and decentralized syncing engine (some kind of analog of DropBox and BTSync)
 www-apps/piwik 1.12 2.0: Open source web analytics platform
