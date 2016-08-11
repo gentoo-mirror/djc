@@ -5,4 +5,4 @@ dev-python/praw 3.4.0: A python package for simple access to reddit's API
 dev-python/supay 0.0.7: http://pypi.python.org/pypi/Supay/
 dev-python/update-checker 0.11: A python module that will check for package updates
 dev-util/godep 9999: native bindings for the FUSE kernel module
-www-apps/piwik 1.12 2.0: Open source web analytics platform
+www-apps/piwik 2.16.2: Open source web analytics platform
